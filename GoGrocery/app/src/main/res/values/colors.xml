@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#181725</color>
+    <color name="filledBlack">#000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="offWhite">#BACFCACA</color>
+    <color name="green">#53B175</color>
+    <color name="lightGreen">#00FF5C</color>
+    <color name="googleColor">#5383EC</color>
+    <color name="grey">#F2F3F2</color>
+    <color name="lightBlack">#7C7C7C</color>
+    <color name="lightGray">#E2E2E2</color>
+    <color name="orange">#D36A0F</color>
+    <color name="red">#DC0000</color>
+</resources>

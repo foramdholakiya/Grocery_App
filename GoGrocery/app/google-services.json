@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "56494895032",
+    "project_id": "superest-fa4b8",
+    "storage_bucket": "superest-fa4b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56494895032:android:575f1cbe041085bc0fe94d",
+        "android_client_info": {
+          "package_name": "com.mhmdawad.superest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56494895032-097g12kojfo35drbjkov6cpt89ri6go2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhmdawad.superest",
+            "certificate_hash": "680ae85658d30a9751b90d0d8bde77ea7d690a82"
+          }
+        },
+        {
+          "client_id": "56494895032-cbc4cfae4pmjbtet3kf3m7cr3l3r0utt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhmdawad.superest",
+            "certificate_hash": "67f50ab5d67c6548b02a5d09c61702e8da76b55d"
+          }
+        },
+        {
+          "client_id": "56494895032-vuhqac6cuv08rks5bjjavlq8eaa36r37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mhmdawad.superest",
+            "certificate_hash": "0a5aa4218d4b293e2a393671a31da614714b5923"
+          }
+        },
+        {
+          "client_id": "56494895032-fkl9il0cea0mp7bj359l4pn9dptolkrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu7Ug-KxCfwQ7bD6H4vY9UIH-VV_8h6ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56494895032-fkl9il0cea0mp7bj359l4pn9dptolkrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
